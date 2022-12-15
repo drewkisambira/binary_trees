@@ -17,5 +17,4 @@ void binary_tree_delete(binary_tree_t *tree)
 
 	free(tree);
 }
-Footer
-© 2022 GitHub, Inc.
+
