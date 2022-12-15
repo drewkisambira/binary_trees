@@ -42,3 +42,4 @@ int traverse_rows(const binary_tree_t *tree)
 
 	return (right + 1);
 }
+}
